@@ -1,0 +1,24 @@
+
+    	       Voleta
+  No. Celular 98725**** , Lima 
+===============================================
+Nombre de cliente: Mark Quispe Gonzales
+No Cel.: 7256599
+No. factura: 19103735		Fecha: 19/06/2024
+===============================================
+Nombre del prod.		Cant.	Precio
+=============================================== 
+
+IPhone 15 black			1	S/.3300.0
+Huawei 			1	S/.2980.0
+Xiaomi 12 Pro			1	S/.2215.0
+Samsumg A30			3	S/.7050.0 
+        
+        
+=============================================== 
+Total de la factura	S/.15545.0
+Descuento 30 % 		S/.4663.5
+Pago Neto		S/.10881.5        
+===============================================
+
+
